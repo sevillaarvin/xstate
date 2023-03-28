@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.3.0
+
+### Minor Changes
+
+- [#3919](https://github.com/statelyai/xstate/pull/3919) [`6665f0a32`](https://github.com/statelyai/xstate/commit/6665f0a32327407e8fec12240383f211094d929c) Thanks [@c-w](https://github.com/c-w)! - Fix warning about unmet peer dependencies
+
 ## 3.2.1
 
 ### Patch Changes
